@@ -1,6 +1,8 @@
 # Xylophone
 
 A new Flutter project.
+Xylophone
+The xylophone is usually played so that the music sounds an octave higher than written. Because the sound is always very short the xylophone is often used for short solo tunes which are fast and dry. The marimba is a kind of xylophone which has a softer sound and more bars, especially low notes.
 
 ## Getting Started
 
